@@ -1,0 +1,7 @@
+linux的内存情况
+[dev@devmachine 6379]$ free -h
+              total        used        free      shared  buff/cache   available
+Mem:            31G         18G        223M        212M         12G         12G
+
+
+各个字段的意思
